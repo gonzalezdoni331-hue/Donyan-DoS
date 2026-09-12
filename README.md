@@ -29,7 +29,7 @@ Un mini programa de ataque de Denegacion de servicios, cualquier contribucion me
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gonzalezdoni331-hue/MEDUSA.git
+   git clone https://github.com/gonzalezdoni331-hue/MEDUSA.git](https://github.com/gonzalezdoni331-hue/Donyan-DoS.git
    cd MEDUSA
    ```
 
